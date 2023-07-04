@@ -1,0 +1,13 @@
+#main{
+    width: 100%;
+}
+
+#text{
+    width: 50%;
+    font-weight: 500;
+}
+
+#result{
+    width: 50%;
+    font-weight: 500;
+}
